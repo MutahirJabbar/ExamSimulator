@@ -1,0 +1,5 @@
+In Doubly Linked List a node contains?;Data & Next;Data & Prev;Data, Next & Prev;Data only;Data, Next & Prev
+Which principle is followed by Queue?;LIFO;FIFO;FILO;LILO;FIFO
+Method to insert element in Stack?;pop();push();peek();poll();push()
+In BST left child value is always?;Greater than Root;Less than Root;Equal to Root;Null;Less than Root
+Which keyword is used to inherit a class?;this;super;extends;implements;extends
